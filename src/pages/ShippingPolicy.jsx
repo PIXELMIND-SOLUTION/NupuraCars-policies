@@ -14,7 +14,7 @@ const ShippingPolicy = () => {
         {/* Content */}
         <div className="text-dark" style={{ lineHeight: "1.6" }}>
           <p>
-            At <strong>Drive Car Rental</strong>, we are committed to ensuring your bookings are
+            At <strong>Nupura Cars</strong>, we are committed to ensuring your bookings are
             delivered smoothly and on time. This Shipping Policy outlines the terms
             regarding vehicle delivery and pick-up services.
           </p>
@@ -48,8 +48,8 @@ const ShippingPolicy = () => {
           <h2 className="fw-semibold text-primary mt-4">5. Contact Us</h2>
           <p>
             For any questions or concerns regarding delivery or pick-up, please contact us at:{" "}
-            <a href="mailto:automotives23@gmail.com" className="text-primary text-decoration-underline">
-              automotives23@gmail.com
+            <a href="mailto:help.nupuracars@gmail.com" className="text-primary text-decoration-underline">
+              help.nupuracars@gmail.com
             </a>
           </p>
         </div>

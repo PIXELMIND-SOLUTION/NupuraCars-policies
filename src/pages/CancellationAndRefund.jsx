@@ -14,7 +14,7 @@ const CancellationAndRefundPolicy = () => {
         {/* Content */}
         <div className="text-dark" style={{ lineHeight: "1.6" }}>
           <p>
-            At <strong>Drive Car Rental</strong>, we strive to provide a smooth and reliable car rental experience. 
+            At <strong>Nupura Cars</strong>, we strive to provide a smooth and reliable car rental experience. 
             This Cancellation & Refund Policy explains the terms for cancelling bookings and requesting refunds.
           </p>
 
@@ -35,8 +35,8 @@ const CancellationAndRefundPolicy = () => {
           <h2 className="fw-semibold text-primary mt-4">3. How to Cancel</h2>
           <p>
             To cancel your booking, contact our customer support at{" "}
-            <a href="mailto:automotives23@gmail.com" className="text-primary text-decoration-underline">
-              automotives23@gmail.com
+            <a href="mailto:help.nupuracars@gmail.com" className="text-primary text-decoration-underline">
+              help.nupuracars@gmail.com
             </a>{" "}
             or call +91 6303092897. Please provide your booking reference number and reason for cancellation.
           </p>
@@ -50,7 +50,7 @@ const CancellationAndRefundPolicy = () => {
           <p>
             For any questions or concerns regarding this policy, please contact us:
           </p>
-          <p>Email: <a href="mailto:automotives23@gmail.com" className="text-primary text-decoration-underline">automotives23@gmail.com</a></p>
+          <p>Email: <a href="mailto:help.nupuracars@gmail.com" className="text-primary text-decoration-underline">help.nupuracars@gmail.com</a></p>
           <p>Phone: +91 6303092897</p>
         </div>
       </div>
