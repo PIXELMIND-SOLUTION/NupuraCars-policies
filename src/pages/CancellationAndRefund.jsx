@@ -35,8 +35,8 @@ const CancellationAndRefundPolicy = () => {
           <h2 className="fw-semibold text-primary mt-4">3. How to Cancel</h2>
           <p>
             To cancel your booking, contact our customer support at{" "}
-            <a href="mailto:help.nupuraselfdrivecars@gmail.com" className="text-primary text-decoration-underline">
-              help.nupuraselfdrivecars@gmail.com
+            <a href="mailto:help.contact.nupuracars@gmail.com" className="text-primary text-decoration-underline">
+              help.contact.nupuracars@gmail.com
             </a>{" "}
             or call +91 6303092897. Please provide your booking reference number and reason for cancellation.
           </p>
@@ -50,7 +50,7 @@ const CancellationAndRefundPolicy = () => {
           <p>
             For any questions or concerns regarding this policy, please contact us:
           </p>
-          <p>Email: <a href="mailto:help.nupuraselfdrivecars@gmail.com" className="text-primary text-decoration-underline">help.nupuraselfdrivecars@gmail.com</a></p>
+          <p>Email: <a href="mailto:help.contact.nupuracars@gmail.com" className="text-primary text-decoration-underline">help.contact.nupuracars@gmail.com</a></p>
           <p>Phone: +91 6303092897</p>
         </div>
       </div>

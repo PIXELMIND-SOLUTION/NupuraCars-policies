@@ -67,16 +67,16 @@ const PrivacyPolicy = () => {
           <p>
             For any privacy-related requests, please contact us at:{" "}
             <a
-              href="mailto:help.nupuraselfdrivecars@gmail.com"
+              href="mailto:help.contact.nupuracars@gmail.com"
               className="text-primary text-decoration-underline"
             >
-              help.nupuraselfdrivecars@gmail.com
+              help.contact.nupuracars@gmail.com
             </a>
           </p>
           <p>
             Or write to us directly via Gmail:{" "}
             <a
-              href="https://mail.google.com/mail/?view=cm&to=help.nupuraselfdrivecars@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&to=help.contact.nupuracars@gmail.com"
               className="text-primary text-decoration-underline"
               target="_blank"
               rel="noopener noreferrer"

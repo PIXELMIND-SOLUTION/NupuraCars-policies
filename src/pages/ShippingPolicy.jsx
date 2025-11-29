@@ -48,8 +48,8 @@ const ShippingPolicy = () => {
           <h2 className="fw-semibold text-primary mt-4">5. Contact Us</h2>
           <p>
             For any questions or concerns regarding delivery or pick-up, please contact us at:{" "}
-            <a href="mailto:help.nupuraselfdrivecars@gmail.com" className="text-primary text-decoration-underline">
-              help.nupuraselfdrivecars@gmail.com
+            <a href="mailto:help.contact.nupuracars@gmail.com" className="text-primary text-decoration-underline">
+              help.contact.nupuracars@gmail.com
             </a>
           </p>
         </div>

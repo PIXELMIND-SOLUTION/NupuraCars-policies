@@ -75,10 +75,10 @@ const TermsAndConditions = () => {
             If you have questions or concerns regarding these Terms, please
             contact us at:{" "}
             <a
-              href="mailto:help.nupuraselfdrivecars@gmail.com"
+              href="mailto:help.contact.nupuracars@gmail.com"
               className="text-primary text-decoration-underline"
             >
-              help.nupuraselfdrivecars@gmail.com
+              help.contact.nupuracars@gmail.com
             </a>
           </p>
         </div>
