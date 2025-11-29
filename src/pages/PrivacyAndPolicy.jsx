@@ -14,7 +14,7 @@ const PrivacyPolicy = () => {
         {/* Content Section */}
         <div className="text-dark" style={{ lineHeight: "1.6" }}>
           <p>
-            At <strong>Nupura Selfdrive Cars</strong>, your privacy is very important to us. This Privacy Policy
+            At <strong>Nupura Self drive Cars</strong>, your privacy is very important to us. This Privacy Policy
             explains how we collect, use, and safeguard your personal information when you access or use our
             App.
           </p>
