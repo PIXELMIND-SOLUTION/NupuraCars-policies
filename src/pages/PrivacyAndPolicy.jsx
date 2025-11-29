@@ -14,7 +14,7 @@ const PrivacyPolicy = () => {
         {/* Content Section */}
         <div className="text-dark" style={{ lineHeight: "1.6" }}>
           <p>
-            At <strong>Nupura Cars</strong>, your privacy is very important to us. This Privacy Policy
+            At <strong>Nupura Selfdrive Cars</strong>, your privacy is very important to us. This Privacy Policy
             explains how we collect, use, and safeguard your personal information when you access or use our
             App.
           </p>
@@ -67,16 +67,16 @@ const PrivacyPolicy = () => {
           <p>
             For any privacy-related requests, please contact us at:{" "}
             <a
-              href="mailto:help.nupuracars@gmail.com"
+              href="mailto:help.nupuraselfdrivecars@gmail.com"
               className="text-primary text-decoration-underline"
             >
-              help.nupuracars@gmail.com
+              help.nupuraselfdrivecars@gmail.com
             </a>
           </p>
           <p>
             Or write to us directly via Gmail:{" "}
             <a
-              href="https://mail.google.com/mail/?view=cm&to=help.nupuracars@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&to=help.nupuraselfdrivecars@gmail.com"
               className="text-primary text-decoration-underline"
               target="_blank"
               rel="noopener noreferrer"
